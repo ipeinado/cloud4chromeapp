@@ -1,0 +1,14 @@
+#toolbar {
+  padding: 1em;
+  background: #EEE;
+}
+
+#toolbar input[type='text'] {
+  font-size: 1.1em;
+  line-height: 1.8em;
+  width: 90%;
+  box-shadow: none;
+}
+
+#toolbar #url-button {
+}
